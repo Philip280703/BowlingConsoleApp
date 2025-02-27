@@ -62,7 +62,7 @@ namespace XUnitBowling
 			//4 pins
 			g.Roll(4);
 
-			for(int i = 0;i < 17; i++)
+			for(int i = 0;i < 16; i++)
 			{
 				g.Roll(0);
 			}
